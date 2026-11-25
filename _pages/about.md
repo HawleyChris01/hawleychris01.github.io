@@ -15,6 +15,6 @@ A short paragraph about who you are, what you study, and what you want to work o
 - **Programming/firmware:** C, Python, ...
 
 ## Contact
-- Email: you@example.com
+- Email: chhawley@calpoly.edu
 - [LinkedIn](https://www.linkedin.com/in/chris-hawley-7aba32313/)
-- [Download my resume](/resume.pdf)
+- [Download my resume](/assets/Chris Hawley - Cal Poly MechE.pdf/)

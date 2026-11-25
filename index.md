@@ -15,7 +15,7 @@ feature_row:
     url: /projects/project-one/
     btn_label: "Read more"
     btn_class: "btn--primary"
-  - image_path: /assets/images/prove0.jpg
+  - image_path: /assets/images/prove0.png
     alt: "Project 2"
     title: "Project Two Name"
     excerpt: "One or two sentences on what it is and what you did."
@@ -37,4 +37,4 @@ feature_row:
 
 [See all projects](/projects/){: .btn .btn--primary}
 [Experience](/experience/){: .btn .btn--inverse}
-[Download resume](/resume.pdf){: .btn .btn--inverse}
+[Download resume](/assets/Chris Hawley - Cal Poly MechE.pdf/){: .btn .btn--inverse}
