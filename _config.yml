@@ -1,6 +1,6 @@
 # Site settings
-title: "Chris Hawley | Portfolio"
-email:
+title: "Chris Hawley"
+email: "chhawley@calpoly.edu"
 description: "Mechanical engineering portfolio showcasing design projects and experience."
 url: "https://HawleyChris01.github.io"
 repository: "HawleyChris01/HawleyChris01.github.io"
@@ -30,7 +30,7 @@ plugins:
 
 author:
   name   : "Chris Hawley"
-  avatar : "/assets/images/headshot.jpg"
+  avatar : "/assets/images/Professional Headshot 2026.png"
   bio    : "Mechanical engineering student at Cal Poly interested in design, manufacturing, and embedded systems."
   links:
     - label: "LinkedIn"
