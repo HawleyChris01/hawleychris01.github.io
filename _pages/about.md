@@ -17,4 +17,4 @@ A short paragraph about who you are, what you study, and what you want to work o
 ## Contact
 - Email: chhawley@calpoly.edu
 - [LinkedIn](https://www.linkedin.com/in/chris-hawley-7aba32313/)
-- [Download my resume](/assets/Chris%20Hawley%20-%20Cal%20Poly%20MechE.pdf/)
+- [Download my resume](/assets/files/Chris%20Hawley%20-%20Cal%20Poly%20MechE.pdf)
