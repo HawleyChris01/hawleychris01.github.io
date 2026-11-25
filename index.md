@@ -37,4 +37,4 @@ feature_row:
 
 [See all projects](/projects/){: .btn .btn--primary}
 [Experience](/experience/){: .btn .btn--inverse}
-[Download resume](/assets/Chris Hawley - Cal Poly MechE.pdf/){: .btn .btn--inverse}
+[Download resume](/assets/Chris%20Hawley%20-%20Cal%20Poly%20MechE.pdf/){: .btn .btn--inverse}
